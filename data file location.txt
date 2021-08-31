@@ -1,0 +1,2 @@
+Hi Angie,
+Please place "atm_db" foler to "C:" drive
